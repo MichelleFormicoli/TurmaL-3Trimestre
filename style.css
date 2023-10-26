@@ -7,8 +7,13 @@ body{
     text-align: center;
 }
 
-.texto{
+.texto1{
     color:palevioletred;
-    font-size: 30px;
-    text-align: ju;
+    font-size: 35px;
+    text-align: justify;
+}
+.texto2{
+    color:red;
+    font-size: 35px;
+    text-align: justify;
 }
