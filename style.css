@@ -16,3 +16,10 @@ body{
     font-size: 30px;
     text-align: justify;
 }
+#imagem{
+    height: 50pc;
+    width: 50px;
+    padding:10px ;
+    margin: 50px;
+    border:solid #F875AA;
+}
