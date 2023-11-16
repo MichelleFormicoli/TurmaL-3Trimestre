@@ -18,8 +18,8 @@ body{
 }
 #imagem{
     height: 50pc;
-    width: 50px;
+    width: 150px;
     padding:10px ;
     margin: 50px;
-    border:solid #F875AA;
+    border:solid black;
 }
