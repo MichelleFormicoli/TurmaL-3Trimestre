@@ -26,16 +26,29 @@ body{
 }
     
 
+<<<<<<< HEAD
+.foto{
+=======
 .fo{
+>>>>>>> 10e4c9603e7e33429c903cf4204c5df057b6ec4a
     height: 350px;
     width: 350px;
     padding: 10px;
     margin: 10px;foto 
 
+<<<<<<< HEAD
+}
+
+
+ 
+
+.conteudo{
+=======
 }
 
  
 
 .conteudo{
-    background-color:FDF7E4;  
+>>>>>>> 10e4c9603e7e33429c903cf4204c5df057b6ec4a
+mi    background-color:FDF7E4;  
 }
