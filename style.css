@@ -56,3 +56,6 @@ body{
 .listas1{
     list-style-position: inside;
 }
+.listas2{
+    list-style: nome;
+}
