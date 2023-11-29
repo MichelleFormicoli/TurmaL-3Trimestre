@@ -43,8 +43,16 @@ body{
     border-radius: 20%;
 }
 
- 
+ .lista{ 
+    font-size: 35px;
+    text-align: center;
+    color:gray;
+ }
 
 .conteudo{
   background-color:FDF7E4;  
+}
+
+.lista1{
+    list-style-position: inside;
 }
