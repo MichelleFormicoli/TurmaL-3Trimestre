@@ -26,12 +26,16 @@ body{
 }
     
 
-{.foto
+.fo{
     height: 350px;
     width: 350px;
     padding: 10px;
-    margin: 10px;
+    margin: 10px;foto 
 
-{.conteudo
+}
+
+ 
+
+.conteudo{
     background-color:FDF7E4;  
 }
