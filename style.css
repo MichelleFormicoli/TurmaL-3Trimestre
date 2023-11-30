@@ -6,13 +6,15 @@ header{
     padding: 20px;
     color:paleturquoise;
     border-bottom: 5px solid black;
-    .cabecalho{ 
-        display: flex;
-        justify-content: space-around;
-        
-    }
-     
+      
 }
+
+.cabecalho{ 
+    display: flex;
+    justify-content: space-around;
+    
+}
+ 
 #titulo{
     color: #F875AA;
     font-size: 50px;
@@ -29,8 +31,8 @@ header{
     text-align: justify;
 }
 #imagem{
-    height: 350px;
-    width: 350px;
+    height: 80px;
+    width: 80px;
     padding: 10px;
     margin: 10px;
     border: 3px solid  black;
