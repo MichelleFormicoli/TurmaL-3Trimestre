@@ -9,11 +9,9 @@ header{
       
 }
 
-.cabecalho{ 
-    display: flex;
-    justify-content: space-around;
+
     
-}
+
  
 #titulo{
     color: #F875AA;
